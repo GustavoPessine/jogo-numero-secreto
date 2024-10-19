@@ -1,0 +1,79 @@
+git log
+
+commit 13f07b9eddc84c8c033b58b29a3de9ad0fa7793f (HEAD -> main, origin/main)
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Thu Oct 10 22:16:35 2024 -0300
+
+    Alteração de dificuldade Teste 1 para 45
+
+commit ac2a096fe837428596713d72588f1c9aefebd5b1
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Wed Oct 9 20:48:29 2024 -0300
+
+    Teste De Alteração
+
+commit 2512fa4a0fac7cc3f23a8c21b8736ad642306b5c
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+:
+ *  History restored 
+
+commit 13f07b9eddc84c8c033b58b29a3de9ad0fa7793f (HEAD -> main, origin/main)
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Thu Oct 10 22:16:35 2024 -0300
+
+    Alteração de dificuldade Teste 1 para 45
+
+commit ac2a096fe837428596713d72588f1c9aefebd5b1
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Wed Oct 9 20:48:29 2024 -0300
+
+    Teste De Alteração
+
+commit 2512fa4a0fac7cc3f23a8c21b8736ad642306b5c
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Wed Oct 9 20:40:03 2024 -0300
+
+    Alteração de dificuldade de 180 para 140
+
+commit e481c42fc2b07ca1ffa4f36e137c60ce67c1efad (jogo-numero-secreto/main)
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Wed Oct 9 20:19:06 2024 -0300
+
+    Dificuldade de 140 para 180
+
+commit e33a56d28de2750a7cef1e4057edf5aafc67c0ac
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Mon Oct 7 22:26:15 2024 -0300
+
+    Alteração de Dificuldade de 160 para 140
+
+commit 472160c631a632e6ed30b424b67b5e55471f84e1
+Author: GustavoPessine <gustavopcpessine@gmail.com>
+Date:   Mon Oct 7 21:26:26 2024 -0300
+
+    Teste_jogo_numero_secreto
+
+commit 4cc024e1f75c88a0a4b1125ba174dc36d3ab8983
+Author: GustavoPessine <gustavopcpessine@gmail.com>
+Date:   Mon Oct 7 21:21:26 2024 -0300
+
+    Jogo_numero_secretoREADME.md
+
+commit 37ecefadbfa1800ac0bf106c5a433ded77a9f5ee
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Mon Oct 7 21:08:53 2024 -0300
+
+    Alteração de dificuldade de 150 para 160
+
+commit dc00811b53d9d1f1106f2d8ba7ea28205e51c833
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Mon Oct 7 20:46:21 2024 -0300
+
+    Alteração de dificuldade de 600 para 150
+
+commit fa04b6233907aeaca58eacdd9419e294983aeb2e
+Author: Gustavo Pessine <gustavopcpessine@gmail.com>
+Date:   Sun Oct 6 21:22:56 2024 -0300
+
+    projeto inicial
+(END)
